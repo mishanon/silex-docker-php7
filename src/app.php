@@ -30,7 +30,7 @@ $app->get('/hello/{name}', function ($name, $row) {
             if ($file != "." && $file != "..") {
                 $filePath = $dir . DIRECTORY_SEPARATOR . $file;
                 if (in_array($file, array('NorthEast Petroleum Unversity, China.csv','China University of Mining and Technology.csv'))) {
-                    $country = 'Chine';
+                    $country = 'China';
                 } else {
                     $country = 'Russia';
                 }

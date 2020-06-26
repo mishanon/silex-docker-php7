@@ -116,7 +116,7 @@ lang : 'English',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -126,7 +126,7 @@ lang : 'English',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -136,7 +136,7 @@ lang : 'English',
 degree_level : 'Bachelors',
 tuition_fee : '1932',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -146,7 +146,7 @@ lang : 'English',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -156,7 +156,7 @@ lang : 'English',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -166,7 +166,7 @@ lang : 'English',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -176,7 +176,7 @@ lang : 'English',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -186,7 +186,7 @@ lang : 'English',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -196,7 +196,7 @@ lang : 'English',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -206,7 +206,7 @@ lang : 'English',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -216,7 +216,7 @@ lang : 'English',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -226,7 +226,7 @@ lang : 'English',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -236,7 +236,7 @@ lang : 'English',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -246,7 +246,7 @@ lang : 'English',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -256,7 +256,7 @@ lang : 'English',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -266,7 +266,7 @@ lang : 'English',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -276,7 +276,7 @@ lang : 'English',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -286,7 +286,7 @@ lang : 'English',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -296,7 +296,7 @@ lang : 'English',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -306,7 +306,7 @@ lang : 'English',
 degree_level : 'Masters',
 tuition_fee : '2156',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -316,7 +316,7 @@ lang : 'English',
 degree_level : 'Masters',
 tuition_fee : '2156',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -326,977 +326,977 @@ lang : 'English',
 degree_level : 'Masters',
 tuition_fee : '2156',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Mining Engineering',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Engineering Mechanics',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Civil Engineering',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Building Environment andEnergy Engineering',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Construction Management',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Geological Engineering',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Hydrology and Water ResourcesEngineering',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Resources ProspectingEngineering',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Geophysics',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Materials Science andEngineering',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Chemical Engineering andTechnology',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Mineral Processing',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Environmental Engineering',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Geodesy and SurveyingEngineering',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Land Resources Management',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Electrical Engineering andAutomation',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Energy and Power Engineering',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Computer Science andTechnology',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Electronic InformationEngineering',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Automation',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Architecture',
 duration : '5',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Industrial Design',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Environment Design',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Musicology',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '2044',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Business Administration',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '1932',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Marketing',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '1932',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Accounting',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '1932',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Finance',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '1932',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Human Resource Management',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '1932',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Sports Training',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '1932',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Instruction and Managements of Social Sport',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelors',
 tuition_fee : '1932',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Mining Engineering',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Resource Development, Planning and Design',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Materials Science and Engineering',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Mechanics',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'General Mechanics & Mechanics Fundamentals',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Solid Mechanics',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Engineering Mechanics',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Geotechnical Engineering',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Structural Engineering',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Disaster Prevention, Reduction and Protection Engineering',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Construction Management',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Electronic Science and Technology',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Information and Communication Engineering',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Control Science and Engineering',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Cartography & Geographic Information System',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Geophysics',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Geochemistry',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Geo-Exploration & Information Technology',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Hydrology and Water Resources',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Mineral Resources Survey and Exploration',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Geological Engineering',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Earth Information Science',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Groundwater Science and Engineering',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Environmental Science',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Physical Geography',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Geodesy & Surveying Engineering',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Cartography & Geographical Information Engineering',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Mine Spatial Informatics & Subsidence-control Engineering',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Environmental Engineering',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Computational Mathematics',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Probability and Mathematical Statistics',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Applied Mathematics',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Operational Research and Cybernetics',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Statistics',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Computer Application Technology',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Chemical Engineering',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Chemical Technology',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Inorganic Chemistry',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Analytical Chemistry',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Organic Chemistry',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Physical Chemistry',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Chemical Process Equipment',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Biochemical Engineering',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Applied Chemistry',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Industrial Catalysis',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Mineral Processing',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Clean Energy Engineering',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Mineral Materials Engineering',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Finance',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2156',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Industrial Economics',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2156',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'International Trade',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2156',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Management Science and Engineering',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2156',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Enterprise Management',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2156',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Quantitative Economics',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2156',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Technology Economy and Management',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2156',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Urban & Rural Planning and Design',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Design Science',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Public Management',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2156',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
-name : 'ChineseLanguageandLiterature',
+name : 'ChinaseLanguageandLiterature',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2156',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Marxist Theory',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2268',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Sports Humanistic Sociology',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2156',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Sports Education and Training',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2156',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Physical Education',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2156',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Sports Training',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2156',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Competitions Organization',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2156',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Instruction of Social Sports',
 duration : '3',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Masters',
 tuition_fee : '2156',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -1306,7 +1306,7 @@ lang : 'English',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -1316,7 +1316,7 @@ lang : 'English',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -1326,7 +1326,7 @@ lang : 'English',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -1336,7 +1336,7 @@ lang : 'English',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -1346,7 +1346,7 @@ lang : 'English',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -1356,7 +1356,7 @@ lang : 'English',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -1366,7 +1366,7 @@ lang : 'English',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -1376,7 +1376,7 @@ lang : 'English',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -1386,7 +1386,7 @@ lang : 'English',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -1396,7 +1396,7 @@ lang : 'English',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -1406,7 +1406,7 @@ lang : 'English',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -1416,317 +1416,317 @@ lang : 'English',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Mining Engineering',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Resource Development, Planningand Design',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Engineering Mechanics',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Geotechnical Engineering',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Information and CommunicationEngineering',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Control Science and Engineering',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Geological Resources andGeological Engineering',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Chemical Engineering',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Chemical Technology',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Applied Chemistry',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Industrial Catalysis',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Mineral Resources Engineering',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Clean Energy Engineering',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Mineral Materials Engineering',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Mine and Underground Survey',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Cartography & GeographicalInformation Engineering',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Geodesy & Surveying Engineering',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Environmental Science',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Environmental Engineering',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Operational Research and Cybernetics',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Computational Mathematics',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Probability and Mathematical Statistics',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Applied Mathematics',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Computer Software and Theory',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Computer Science and Technology',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Management Science and Engineering',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Financial Engineering and RiskManagement',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Energy and Resources Management',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Public Administration',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Educational Economy and Management',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Ideological and Political Education',
 duration : '4',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Ph.D',
 tuition_fee : '2380',
 accommodation_fee : '420',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -1778,7 +1778,7 @@ country : 'Russia',
 };
 courses.push(course);
 course = {
-name : 'Technological machines and equipment',
+name : 'Technological maChinas and equipment',
 duration : '4 years',
 subject_area : 'Engineering',
 subject : 'Mechanical Engineering',
@@ -2306,7 +2306,7 @@ country : 'Russia',
 };
 courses.push(course);
 course = {
-name : 'OPERATION OF TRANSPORTATION AND TECHNOLOGICAL MACHINES AND COMPLEXES',
+name : 'OPERATION OF TRANSPORTATION AND TECHNOLOGICAL MAChinaS AND COMPLEXES',
 duration : '4 years',
 subject_area : 'Engineering',
 subject : 'Vehicle Engineering',
@@ -2330,7 +2330,7 @@ country : 'Russia',
 };
 courses.push(course);
 course = {
-name : 'ENGINEERING AND DESIGN PROVISION OF PRODUCTION IN MACHINE-BUILDING',
+name : 'ENGINEERING AND DESIGN PROVISION OF PRODUCTION IN MAChina-BUILDING',
 duration : '4 years',
 subject_area : 'Engineering',
 subject : 'Manufacturing and Production',
@@ -2714,7 +2714,7 @@ country : 'Russia',
 };
 courses.push(course);
 course = {
-name : 'TECHNOLOGICAL MACHINES AND EQUIPMENTS',
+name : 'TECHNOLOGICAL MAChinaS AND EQUIPMENTS',
 duration : '4 years',
 subject_area : 'Engineering',
 subject : 'Mechanical Engineering',
@@ -2822,7 +2822,7 @@ country : 'Russia',
 };
 courses.push(course);
 course = {
-name : 'OPERATION OF TRANSPORTATION AND TECHNOLOGICAL MACHINE AND COMPLEXES',
+name : 'OPERATION OF TRANSPORTATION AND TECHNOLOGICAL MAChina AND COMPLEXES',
 duration : '2 years',
 subject_area : 'Engineering',
 subject : 'Vehicle Engineering',
@@ -2846,7 +2846,7 @@ country : 'Russia',
 };
 courses.push(course);
 course = {
-name : 'ENGINEERING AND DESIGN PROVISION OF PRODUCTION IN MACHINE BUILDING',
+name : 'ENGINEERING AND DESIGN PROVISION OF PRODUCTION IN MAChina BUILDING',
 duration : '2 years',
 subject_area : 'Engineering',
 subject : 'Manufacturing and Production',
@@ -3554,7 +3554,7 @@ country : 'Russia',
 };
 courses.push(course);
 course = {
-name : 'Machine-Building Technology',
+name : 'MaChina-Building Technology',
 duration : '4 years',
 subject_area : 'Engineering',
 subject : 'Mechanical Engineering',
@@ -3566,7 +3566,7 @@ country : 'Russia',
 };
 courses.push(course);
 course = {
-name : 'Technology Equipment of Machine Building',
+name : 'Technology Equipment of MaChina Building',
 duration : '4 years',
 subject_area : 'Engineering',
 subject : 'Other Engineering Courses',
@@ -3578,7 +3578,7 @@ country : 'Russia',
 };
 courses.push(course);
 course = {
-name : 'Machines and Apparatuses of Food Production',
+name : 'MaChinas and Apparatuses of Food Production',
 duration : '4 years',
 subject_area : 'Applied and Pure Science',
 subject : 'Food Science and Technology',
@@ -3746,7 +3746,7 @@ country : 'Russia',
 };
 courses.push(course);
 course = {
-name : 'Innovative Technologies in Machine Building',
+name : 'Innovative Technologies in MaChina Building',
 duration : '1 year',
 subject_area : 'Engineering',
 subject : 'Mechanical Engineering',
@@ -4010,7 +4010,7 @@ country : 'Russia',
 };
 courses.push(course);
 course = {
-name : 'Mechanical Engineering, Machines and Equipment Design',
+name : 'Mechanical Engineering, MaChinas and Equipment Design',
 duration : '2 years',
 subject_area : 'Engineering',
 subject : 'Mechanical Engineering',
@@ -4997,289 +4997,289 @@ courses.push(course);
 course = {
 name : 'Geochemistry',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Geophysics',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Exploration Technology and Engineering',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Resource Exploration Engineering',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Geology',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Petroleum Engineering',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Chemistry',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Applied Chemistry',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Polymer Materials and Engineering',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Environmental Engineering',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Chemical Engineering and Process',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Energy Chemical Engineering',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Mechanical Design',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Manufacture and Automation',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Metal Material Engineering',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Process Equipment and Control Engineering',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Engineering Mechanics',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Vehicle Engineering',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Civil Engineering',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Technology and Instrument of Measurement and Control',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Electrical Engineering and Automation',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Automation',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Communication Engineering',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Software Engineering',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Business Administration',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Applied Physics',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Electronic Information Engineering',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Electronic Science and Technology',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Photoelectric Information Science and Engineering',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'New Energy Materials and Devices',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
-name : 'Chinese Language and Literature',
+name : 'Chinase Language and Literature',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Choreographer',
 duration : '4 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Bachelor',
 tuition_fee : '2240',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -5288,7 +5288,7 @@ duration : '4 years',
 lang : 'English',
 degree_level : 'Bachelor',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -5297,7 +5297,7 @@ duration : '4 years',
 lang : 'English',
 degree_level : 'Bachelor',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -5306,7 +5306,7 @@ duration : '4 years',
 lang : 'English',
 degree_level : 'Bachelor',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -5315,7 +5315,7 @@ duration : '4 years',
 lang : 'English',
 degree_level : 'Bachelor',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -5324,7 +5324,7 @@ duration : '4 years',
 lang : 'English',
 degree_level : 'Bachelor',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -5333,7 +5333,7 @@ duration : '4 years',
 lang : 'English',
 degree_level : 'Bachelor',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -5342,349 +5342,349 @@ duration : '4 years',
 lang : 'English',
 degree_level : 'Bachelor',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Mineral Survey and Exploration',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Earth Exploration and Information Technology',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Geological Engineering',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Solid Geophysics',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Mineralogy',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Petrology',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Ore Deposits Geology',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Geochemistry',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Oil and Gas Engineering',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Oil and Gas Field Development Engineering',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Oil and Gas Storage and Transportation Engineering',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Petroleum and Natural Gas Engineering',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Chemical engineering and technology',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Environmental engineering',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Chemistry',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Mechanics',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Mechanical Engineering',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Safety Science and Engineering',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Power Engineering and Engineering Thermal Physic',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Materials Science',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Oil and Gas Field Mechanical Engineering',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Dynamic Engineering and Engineering Thermal Physics',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Civil Engineering',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Oil and Chemical Disaster Prevention and Reduction Engineering',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Control Science and Engineering',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Electrical Engineering',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Information and Communication Engineering',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Oil and Gas Information and Control Engineering',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Computer Science and Technology',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Software Engineering',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Educational Technology',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Computer Technology and Resource Information Engineering',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Economy and Management of Oil and Gas Resources',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Accounting',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Business Administration',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Instrument Science and Technology',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Applied Mathematics',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
 name : 'Pedagogics',
 duration : '2-3 years',
-lang : 'Chinese',
+lang : 'Chinase',
 degree_level : 'Master',
 tuition_fee : '2800',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -5693,7 +5693,7 @@ duration : '2-3 years',
 lang : 'English',
 degree_level : 'Master',
 tuition_fee : '3360',
-country : 'Chine',
+country : 'China',
 };
 courses.push(course);
 course = {
@@ -5774,7 +5774,7 @@ country : 'Russia',
 };
 courses.push(course);
 course = {
-name : 'Mechanical Engineering, Machines and Equipment Design',
+name : 'Mechanical Engineering, MaChinas and Equipment Design',
 lang : 'English',
 duration : '2 years',
 degree_level : 'Master',
@@ -6118,7 +6118,7 @@ country : 'Russia',
 };
 courses.push(course);
 course = {
-name : 'Technological machines and equipment',
+name : 'Technological maChinas and equipment',
 duration : '4 years',
 accommodation_fee : '300',
 tuition_fee : '2200',

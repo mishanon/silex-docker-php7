@@ -20,18 +20,8 @@
                         <select class="form-control" id="degree_level">
                         </select>
                     </div>
-                    <div class="form-group">
-                        <label for="subject_area">Subject area</label>
-                        <select class="form-control" id="subject_area">
-                        </select>
-                    </div>
                 </div>
                 <div class="col-6">
-                    <div class="form-group">
-                        <label for="subject">Subject</label>
-                        <select class="form-control" id="subject">
-                        </select>
-                    </div>
 
                     <div class="form-group">
                         <label for="total_fee">Total fee</label>
@@ -68,13 +58,11 @@
            var name = $('form #name').val();
            var language = $('form #lang').val();
            var degreeLevel = $('form #degree_level').val();
-           var subjectArea = $('form #subject_area').val();
-           var subject = $('form #subject').val();
            var totalFee = $('form #total_fee').val();
            var accommodationFee = $('form #accommodation_fee').val();
            var tuitionFee = $('form #tuition_fee').val();
            var country = $('form #country').val();
-           console.log('"' + name + '"','"' +  language + '"','"' +   degreeLevel + '"','"' +  subjectArea + '"','"' +  subject + '"','"' +  totalFee + '"','"' +  accommodationFee + '"','"' +  tuitionFee + '"');
+           console.log('"' + name + '"','"' +  language + '"','"' +   degreeLevel + '"','"' +  totalFee + '"','"' +  accommodationFee + '"','"' +  tuitionFee + '"');
 
            $('#courses tr.tableRow').remove();
 
@@ -88,12 +76,6 @@
                     add = false;
                 }
                 if (!filterDataOfCourse("degree_level", degreeLevel, courses[i])) {
-                    add = false;
-                }
-                if (!filterDataOfCourse("subject_area", subjectArea, courses[i])) {
-                    add = false;
-                }
-                if (!filterDataOfCourse("subject", subject, courses[i])) {
                     add = false;
                 }
                 if (!filterDataOfCourse("total_fee", totalFee, courses[i])) {
@@ -135,8 +117,6 @@
                     '<td>' + course.name + '</td>' +
                     '<td>' + course.lang + '</td>' +
                     '<td>' + course.degree_level + '</td>' +
-                    '<td>' + course.subject_area + '</td>' +
-                    '<td>' + course.subject + '</td>' +
                     '<td>' + course.total_fee + '</td>' +
                     '<td>' + course.accommodation_fee + '</td>' +
                     '<td>' + course.tuition_fee + '</td>' +
@@ -177,36 +157,6 @@
         $(output).each(function(index, value) {
             if (typeof value != "undefined") {
                 $("#lang").append(new Option(value, value));
-            }
-        });
-
-        // Subject area
-        $("#subject_area").append(new Option());
-        flags = [];
-        output = [];
-        for (i = 0; i < l; i++) {
-            if (flags[courses[i].subject_area]) continue;
-            flags[courses[i].subject_area] = true;
-            output.push(courses[i].subject_area);
-        }
-        $(output).each(function(index, value) {
-            if (typeof value != "undefined") {
-                $("#subject_area").append(new Option(value, value));
-            }
-        });
-
-        // Subject
-        $("#subject").append(new Option());
-        flags = [];
-        output = [];
-        for (i = 0; i < l; i++) {
-            if (flags[courses[i].subject]) continue;
-            flags[courses[i].subject] = true;
-            output.push(courses[i].subject);
-        }
-        $(output).each(function(index, value) {
-            if (typeof value != "undefined") {
-                $("#subject").append(new Option(value, value));
             }
         });
 
