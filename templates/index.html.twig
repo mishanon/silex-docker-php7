@@ -1,5 +1,228 @@
 {% extends "layout.html.twig" %}
 
 {% block content %}
-    Welcome to your new Silex Application!
+    <form>
+        <div class="container">
+            <h2>Search courses</h2>
+            <div class="row">
+                <div class="col-6">
+                    <div class="form-group">
+                        <label for="name">Name course</label>
+                        <input type="text" class="form-control" id="name" placeholder="Name of course">
+                    </div>
+                    <div class="form-group">
+                        <label for="lang">Language</label>
+                        <select class="form-control" id="lang">
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="degree_level">Degree level</label>
+                        <select class="form-control" id="degree_level">
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="subject_area">Subject area</label>
+                        <select class="form-control" id="subject_area">
+                        </select>
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="form-group">
+                        <label for="subject">Subject</label>
+                        <select class="form-control" id="subject">
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="total_fee">Total fee</label>
+                        <input type="text" class="form-control" id="total_fee" placeholder="Total fee in $">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="accommodation_fee">Accommodation fee</label>
+                        <input type="text" class="form-control" id="accommodation_fee"
+                               placeholder="Accommodation fee in $">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="tuition_fee">Tuition fee</label>
+                        <input type="text" class="form-control" id="tuition_fee" placeholder="Tuition fee in $">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="country">Country</label>
+                        <select class="form-control" id="country">
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary">Search</button>
+        </div>
+    </form>
+
+    {% include 'table.html.twig' %}
+
+    <script>
+        $('form').submit(function(e) {
+           e.preventDefault();
+           var name = $('form #name').val();
+           var language = $('form #lang').val();
+           var degreeLevel = $('form #degree_level').val();
+           var subjectArea = $('form #subject_area').val();
+           var subject = $('form #subject').val();
+           var totalFee = $('form #total_fee').val();
+           var accommodationFee = $('form #accommodation_fee').val();
+           var tuitionFee = $('form #tuition_fee').val();
+           var country = $('form #country').val();
+           console.log('"' + name + '"','"' +  language + '"','"' +   degreeLevel + '"','"' +  subjectArea + '"','"' +  subject + '"','"' +  totalFee + '"','"' +  accommodationFee + '"','"' +  tuitionFee + '"');
+
+           $('#courses tr.tableRow').remove();
+
+            var l = courses.length, i;
+            for (i = 0; i < l; i++) {
+                add = true;
+                if (!filterDataOfCourse("name", name, courses[i])) {
+                    add = false;
+                }
+                if (!filterDataOfCourse("lang", language, courses[i])) {
+                    add = false;
+                }
+                if (!filterDataOfCourse("degree_level", degreeLevel, courses[i])) {
+                    add = false;
+                }
+                if (!filterDataOfCourse("subject_area", subjectArea, courses[i])) {
+                    add = false;
+                }
+                if (!filterDataOfCourse("subject", subject, courses[i])) {
+                    add = false;
+                }
+                if (!filterDataOfCourse("total_fee", totalFee, courses[i])) {
+                    add = false;
+                }
+                if (!filterDataOfCourse("accommodation_fee", accommodationFee, courses[i])) {
+                    add = false;
+                }
+                if (!filterDataOfCourse("tuition_fee", tuitionFee, courses[i])) {
+                    add = false;
+                }
+                if (!filterDataOfCourse("country", country, courses[i])) {
+                    add = false;
+                }
+
+                if (add) {
+                    addCourseToTable(courses[i]);
+                }
+            }
+
+            var replaced = $("#courses").html().replace(/undefined/g, '');
+            $("#courses").html(replaced);
+
+            function filterDataOfCourse(nameProperty, value, course) {
+                if (value != "") {
+                    if (typeof course[nameProperty] == "undefined") {
+                        return false;
+                    } else {
+                        if (course[nameProperty] != value) {
+                            return false;
+                        }
+                    }
+                }
+                return true;
+            }
+
+            function addCourseToTable(course) {
+                var row = '<tr class="tableRow">' +
+                    '<td>' + course.name + '</td>' +
+                    '<td>' + course.lang + '</td>' +
+                    '<td>' + course.degree_level + '</td>' +
+                    '<td>' + course.subject_area + '</td>' +
+                    '<td>' + course.subject + '</td>' +
+                    '<td>' + course.total_fee + '</td>' +
+                    '<td>' + course.accommodation_fee + '</td>' +
+                    '<td>' + course.tuition_fee + '</td>' +
+                    '<td>' + course.country + '</td>' +
+                    '<td><a class="btn btn-primary" href="https://www.searus.org/apply" role="button">Apply</a></td>' +
+                    '</tr>';
+
+                $('#courses > tbody').append(row);
+            }
+
+        });
+    </script>
+
+    <script>
+        // Degree level
+        $("#degree_level").append(new Option());
+        var flags = [], output = [], l = courses.length, i;
+        for (i = 0; i < l; i++) {
+            if (flags[courses[i].degree_level]) continue;
+            flags[courses[i].degree_level] = true;
+            output.push(courses[i].degree_level);
+        }
+        $(output).each(function(index, value) {
+           if (typeof value != "undefined") {
+               $("#degree_level").append(new Option(value, value));
+            }
+        });
+
+        // Language
+        $("#lang").append(new Option());
+        flags = [];
+        output = [];
+        for (i = 0; i < l; i++) {
+            if (flags[courses[i].lang]) continue;
+            flags[courses[i].lang] = true;
+            output.push(courses[i].lang);
+        }
+        $(output).each(function(index, value) {
+            if (typeof value != "undefined") {
+                $("#lang").append(new Option(value, value));
+            }
+        });
+
+        // Subject area
+        $("#subject_area").append(new Option());
+        flags = [];
+        output = [];
+        for (i = 0; i < l; i++) {
+            if (flags[courses[i].subject_area]) continue;
+            flags[courses[i].subject_area] = true;
+            output.push(courses[i].subject_area);
+        }
+        $(output).each(function(index, value) {
+            if (typeof value != "undefined") {
+                $("#subject_area").append(new Option(value, value));
+            }
+        });
+
+        // Subject
+        $("#subject").append(new Option());
+        flags = [];
+        output = [];
+        for (i = 0; i < l; i++) {
+            if (flags[courses[i].subject]) continue;
+            flags[courses[i].subject] = true;
+            output.push(courses[i].subject);
+        }
+        $(output).each(function(index, value) {
+            if (typeof value != "undefined") {
+                $("#subject").append(new Option(value, value));
+            }
+        });
+
+        // Country
+        $("#country").append(new Option());
+        flags = [];
+        output = [];
+        for (i = 0; i < l; i++) {
+            if (flags[courses[i].country]) continue;
+            flags[courses[i].country] = true;
+            output.push(courses[i].country);
+        }
+        $(output).each(function(index, value) {
+            if (typeof value != "undefined") {
+                $("#country").append(new Option(value, value));
+            }
+        });
+    </script>
 {% endblock %}
